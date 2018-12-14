@@ -1,0 +1,29 @@
+body {
+    background-color:#8d0724;
+}
+
+
+p{
+font-size:15pt;
+font-family:"Times New Roman", Times, serif;
+color:black;
+}
+
+h1,h2,h3,h4,h5{
+  color:black;
+}
+
+video{
+display: block;
+margin: 0 auto;
+}
+
+.header {
+	background-image:("photography101logo.jpg");
+	height:70px;
+	width:110%;
+	margin:-10px;
+}
+title{
+  color: #FFFF00.;
+}
